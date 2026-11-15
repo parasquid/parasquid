@@ -19,4 +19,4 @@ I like learning by making things and sharing what I learn.
 - [Hack · Work · Play](https://hackworkplay.com/) — Hardware, experiments, and repairs.
 - [Wit for Sale](https://witforsale.com/) — Thoughts, discoveries, and lessons along the way.
 
-[LinkedIn](https://www.linkedin.com/in/parasquid/) · [Bluesky](https://bsky.app/profile/parasquid.dev)
+[LinkedIn](https://www.linkedin.com/in/parasquid/) · [Bluesky](https://bsky.app/profile/parasquid.dev) · [More links](https://links.parasquid.com/)
